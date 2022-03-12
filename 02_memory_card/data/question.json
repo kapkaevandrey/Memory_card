@@ -1,0 +1,15 @@
+[
+
+  {"question":  "Цвет ёлки",
+  "right_answer": "green",
+  "wrong1":  "red",
+  "wrong2": "black",
+  "wrong3": "yellow"},
+
+  {"question":  "Какой национальности не существует",
+  "right_answer": "Смурфы",
+  "wrong1":  "Энцы",
+  "wrong2": "Алеуты",
+  "wrong3": "Эльфы"}
+
+]

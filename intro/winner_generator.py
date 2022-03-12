@@ -11,7 +11,6 @@ def generate_winner():
     winner_num.setNum(num)
 
 
-
 # создаём приложение
 app = QApplication(sys.argv)
 # создаём главное окно

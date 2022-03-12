@@ -1,0 +1,51 @@
+[
+  {
+    "question":  "Сколько стоит доллар",
+    "right_answer": "75",
+    "wrong1": "85",
+    "wrong2": "80",
+    "wrong3": "70"
+  },
+  {
+    "question":  "Сколько стоит тенге",
+    "right_answer": "0,5",
+    "wrong1": "1",
+    "wrong2": "2",
+    "wrong3": "3"
+  },
+  {
+    "question":  "Сколько стоит евро",
+    "right_answer": "85",
+    "wrong1": "80",
+    "wrong2": "90",
+    "wrong3": "75"
+  },
+  {
+    "question":  "Сколько стоит гривна",
+    "right_answer": "5",
+    "wrong1": "10",
+    "wrong2": "15",
+    "wrong3": "20"
+  },
+  {
+    "question":  "Сколько битов в 8 байтах",
+    "right_answer": "64",
+    "wrong1": "128",
+    "wrong2": "32",
+    "wrong3": "16"
+  },
+  {
+    "question":  "Сколько граммов в килограмме",
+    "right_answer": "1000",
+    "wrong1": "500",
+    "wrong2": "600",
+    "wrong3": "1"
+  },
+  {
+    "question":  "Сколько спит Коля",
+    "right_answer": "8",
+    "wrong1": "7",
+    "wrong2": "10",
+    "wrong3": "15"
+  }
+]

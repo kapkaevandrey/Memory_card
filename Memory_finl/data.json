@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Сколько стоит доллар",
+    "right_answer": "75",
+    "wrong1": "80",
+    "wrong2": "85",
+    "wrong3": "90"
+  },
+
+  {"question": "Сколько стоит евро",
+    "right_answer": "80",
+    "wrong1": "85",
+    "wrong2": "70",
+    "wrong3": "60"},
+
+  {"question": "Сколько стоит тенге",
+    "right_answer": "0,5",
+    "wrong1": "1",
+    "wrong2": "6",
+    "wrong3": "2"},
+
+  {"question": "Сколько граммов в килограме",
+    "right_answer": "1000",
+    "wrong1": "100",
+    "wrong2": "500",
+    "wrong3": "1500"},
+
+  {"question": "Сколько битов в 8 битах",
+   "right_answer": "8",
+   "wrong1": "10",
+   "wrong2": "15",
+   "wrong3": "Dendy"}
+
+]
